@@ -162,6 +162,11 @@ The React dashboard provides real-time visibility into:
 * Queue activity
 
 The demo scenario can be used to generate multiple jobs and observe concurrent processing and retry behavior.
+<img width="1837" height="997" alt="Screenshot 2026-09-12 091955" src="https://github.com/user-attachments/assets/15c9ac37-d4c9-4051-897b-90477a88d36c" />
+<img width="1528" height="873" alt="Screenshot 2026-09-12 124311" src="https://github.com/user-attachments/assets/7d80694e-165b-4c4d-bb19-cde014f7a72d" />
+<img width="1522" height="802" alt="Screenshot 2026-09-12 124320" src="https://github.com/user-attachments/assets/024e33e4-34fa-49fb-9e19-6261f885de4c" />
+<img width="1520" height="725" alt="Screenshot 2026-09-12 124342" src="https://github.com/user-attachments/assets/4631bce9-d6fc-484e-bcb6-2b5cd36db037" />
+
 
 ## Project Structure
 
